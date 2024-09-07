@@ -59,7 +59,9 @@ Boostrap (framework CSS )
 ![entregas-lista](public/images/entregas-lista.png)
 
 **Responsive**
+
 ![responsive](public/images/responsive1.png)
+
 ![responsive-mini](public/images/responsive2.png) 
 
 
