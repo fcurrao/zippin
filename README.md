@@ -15,6 +15,7 @@ Las variables de entorno, por seguridad, fueron enviadas por correo electronico 
 
 
 ---
+
 ### Librerias utilizadas
 
 react-router-dom
@@ -45,6 +46,7 @@ Boostrap (framework CSS )
 
 
 
+---
 
 ### Imagenes de Uso
 
@@ -67,8 +69,9 @@ Boostrap (framework CSS )
 
 
 
-### Descripcion
+---
 
+### Descripcion
 
 - Se creó un customs hook que es useAssignPoints y se utiliza para manejar las funciones correspondientes a asignar las entrega(puntos) a los choferes.
 
@@ -102,6 +105,8 @@ Organizé mi proyecto React con una estructura clara: servicios, hooks, contexto
 - Instalar las dependencias del proyecto (npm i ) en la carpeta raiz y luego ejecutar el script** npm run dev**.
 
 
+---
+
 
 ### Instrucciones
 
@@ -117,6 +122,9 @@ Se han implementado dos métodos para asignar tareas a los choferes:
 ¨Desde la barra de choferes: Elige el chofer deseado en la barra de choferes y asigna la entrega mediante un modal. En este modal, también se puede visualizar el número de entregas asignadas al chofer seleccionado.
 
 Esta solución proporciona una experiencia de usuario fluida y eficiente, permitiendo una gestión rápida y efectiva de entregas y choferes. La integración del mapa y las funcionalidades de asignación aseguran que los usuarios puedan realizar las tareas con precisión y agilidad. La interfaz está diseñada para ser intuitiva, facilitando la navegación y la gestión de información crítica en tiempo real.
+
+
+---
 
  
 ## Creado por [fcurrao](https://github.com/fcurrao/ "fcurrao")
