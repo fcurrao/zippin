@@ -1,0 +1,35 @@
+
+.error-container{
+    height: 90%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.error-info{
+    width: 60%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.error-picture { 
+    margin: 1%;
+    height: auto;
+    width: 50%;
+}
+
+
+.error-link{
+    color: rgb(61, 233, 168);
+    text-decoration: underline;
+    font-size: larger;
+    border-color: rgb(61, 233, 168);
+}
+
+@media (max-height: 520px) {
+    .error-picture {
+        display: none;
+    }
+}

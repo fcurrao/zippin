@@ -1,0 +1,8 @@
+.home-container{
+    display: flex;
+    height: 85%;
+    justify-content: flex-start;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    align-items: center;
+}

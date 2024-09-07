@@ -1,0 +1,202 @@
+[
+  {
+    "id": 1,
+    "name": "Almagro",
+    "state": "❌",
+    "lat": -34.611780,
+    "long": -58.417309,
+    "direccion": "Maza 45, Buenos Aires",
+    "driver": "",
+    "color": ""
+  },
+  {
+    "id": 2,
+    "name": "Casa Rosada",
+    "state": "❌",
+    "lat": -34.608056,
+    "long": -58.370278,
+    "direccion": "Balcarce 50, Buenos Aires",
+    "driver": "",
+    "color": ""
+  },
+  {
+    "id": 3,
+    "name": "Palermo",
+    "state": "❌",
+    "lat": -34.588950,
+    "long": -58.429752,
+    "direccion": "Palermo, Buenos Aires",
+    "driver": "",
+    "color": ""
+  },
+  {
+    "id": 4,
+    "name": "San Telmo",
+    "state": "❌",
+    "lat": -34.617652,
+    "long": -58.362107,
+    "direccion": "Defensa 800, Buenos Aires",
+    "driver": "",
+    "color": ""
+  },
+  {
+    "id": 5,
+    "name": "Barrio Norte",
+    "state": "❌",
+    "lat": -34.608329,
+    "long": -58.433328,
+    "direccion": "Juncal 1200, Buenos Aires",
+    "driver": "",
+    "color": ""
+  },
+  {
+    "id": 6,
+    "name": "Puerto Madero",
+    "state": "❌",
+    "lat": -34.602230,
+    "long": -58.369463,
+    "direccion": "Avenida de los Italianos 400, Buenos Aires",
+    "driver": "",
+    "color": ""
+  },
+  {
+    "id": 7,
+    "name": "Congreso de la Nación",
+    "state": "❌",
+    "lat": -34.598688,
+    "long": -58.381570,
+    "direccion": "Av. Rivadavia 1864, Buenos Aires",
+    "driver": "",
+    "color": ""
+  },
+  {
+    "id": 8,
+    "name": "Recoleta",
+    "state": "❌",
+    "lat": -34.588667,
+    "long": -58.391667,
+    "direccion": "Avenida Alvear 1500, Buenos Aires",
+    "driver": "",
+    "color": ""
+  },
+  {
+    "id": 9,
+    "name": "Constitución",
+    "state": "❌",
+    "lat": -34.626056,
+    "long": -58.381667,
+    "direccion": "Av. Brasil 200, Buenos Aires",
+    "driver": "",
+    "color": ""
+  },
+  {
+    "id": 10,
+    "name": "La Boca",
+    "state": "❌",
+    "lat": -34.642222,
+    "long": -58.397222,
+    "direccion": "Caminito 500, Buenos Aires",
+    "driver": "",
+    "color": ""
+  },
+  {
+    "id": 11,
+    "name": "Belgrano",
+    "state": "❌",
+    "lat": -34.576000,
+    "long": -58.444444,
+    "direccion": "Avenida Cabildo 2000, Buenos Aires",
+    "driver": "",
+    "color": ""
+  },
+  {
+    "id": 12,
+    "name": "Palermo Hollywood",
+    "state": "❌",
+    "lat": -34.580556,
+    "long": -58.415833,
+    "direccion": "Castañeda 1200, Buenos Aires",
+    "driver": "",
+    "color": ""
+  },
+  {
+    "id": 13,
+    "name": "Chacarita",
+    "state": "❌",
+    "lat": -34.608611,
+    "long": -58.445278,
+    "direccion": "Jorge Newbery 600, Buenos Aires",
+    "driver": "",
+    "color": ""
+  },
+  {
+    "id": 14,
+    "name": "Colegiales",
+    "state": "❌",
+    "lat": -34.594167,
+    "long": -58.431389,
+    "direccion": "Freire 1300, Buenos Aires",
+    "driver": "",
+    "color": ""
+  },
+  {
+    "id": 15,
+    "name": "Mataderos",
+    "state": "❌",
+    "lat": -34.642778,
+    "long": -58.512778,
+    "direccion": "Avenida de los Corrales 4000, Buenos Aires",
+    "driver": "",
+    "color": ""
+  },
+  {
+    "id": 16,
+    "name": "Villa Crespo",
+    "state": "❌",
+    "lat": -34.609444,
+    "long": -58.411667,
+    "direccion": "Gascón 400, Buenos Aires",
+    "driver": "",
+    "color": ""
+  },
+  {
+    "id": 17,
+    "name": "Flores",
+    "state": "❌",
+    "lat": -34.626111,
+    "long": -58.469444,
+    "direccion": "Av. Rivadavia 8200, Buenos Aires",
+    "driver": "",
+    "color": ""
+  },
+  {
+    "id": 18,
+    "name": "Liniers",
+    "state": "❌",
+    "lat": -34.617222,
+    "long": -58.497500,
+    "direccion": "Avenida General Paz 7000, Buenos Aires",
+    "driver": "",
+    "color": ""
+  },
+  {
+    "id": 19,
+    "name": "Villa Devoto",
+    "state": "❌",
+    "lat": -34.576944,
+    "long": -58.512222,
+    "direccion": "Av. Francisco Beiró 5600, Buenos Aires",
+    "driver": "",
+    "color": ""
+  },
+  {
+    "id": 20,
+    "name": "Palermo Soho",
+    "state": "❌",
+    "lat": -34.589167,
+    "long": -58.407500,
+    "direccion": "Honduras 5000, Buenos Aires",
+    "driver": "",
+    "color": ""
+  }
+]

@@ -1,0 +1,140 @@
+ html,
+ body,
+ #root {
+   height: 100%;
+   margin: 0;
+ }
+
+ .app-container {
+   display: flex;
+   height: 90%;
+ }
+  
+ .markIcon {
+     transition: transform 0.3s ease;
+ }
+ 
+ .markIcon:hover {
+     transform: scale(1.6);
+ }
+ 
+  
+ .map-container {
+  width: 100%;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  z-index: 1;
+}
+
+.effectMark {
+  width: 18px;
+  --b: 1px;
+  aspect-ratio: 1;
+  border-radius: 50%;
+  -webkit-mask: repeating-conic-gradient(#0000 0deg, #000 1deg 70deg, #0000 71deg 90deg), radial-gradient(farthest-side, #0000 calc(100% - var(--b) - 1px), #000 calc(100% - var(--b)));
+  -webkit-mask-composite: destination-in;
+  mask-composite: intersect;
+  animation: l5 1s infinite;
+  position: relative;
+  top: -15px;
+  left: -3px;
+}
+
+@keyframes l5 {
+  to {
+      transform: rotate(.5turn)
+  }
+}
+ 
+ .navbar {
+   display: flex;
+   width: 28%;
+   height: 100%;
+   background: linear-gradient(269deg, #c6c6c669, #bebebe73);
+   position: relative;
+   gap: 3%;
+   flex-direction: column;
+   align-content: center;
+   flex-wrap: nowrap;
+   align-items: center;
+   justify-content: center;
+   z-index: 200;
+ }
+
+ .content {
+   width: 100%;
+ }
+
+  
+
+ .svg-img {
+   background-color: white;
+   width: 100px;
+ }
+
+ #root {
+   position: absolute;
+   top: 0;
+   left: 0;
+   right: 0;
+   margin: auto;
+   /* padding: 1% 2%; */
+   text-align: center;
+   width: 100%;
+   height: 100%;
+ }
+
+ .bg-v1 {
+   background-color: #4f759b !important;
+ }
+
+ @media (max-width: 768px) {
+
+   #root {
+     position: unset;
+     text-align: center;
+     width: 100%;
+
+   }
+ }
+
+
+ .logo {
+   height: 6em;
+   padding: 1.5em;
+   will-change: filter;
+   transition: filter 300ms;
+ }
+
+ .logo:hover {
+   filter: drop-shadow(0 0 2em #646cffaa);
+ }
+
+ .logo.react:hover {
+   filter: drop-shadow(0 0 2em #61dafbaa);
+ }
+
+ @keyframes logo-spin {
+   from {
+     transform: rotate(0deg);
+   }
+
+   to {
+     transform: rotate(360deg);
+   }
+ }
+
+ @media (prefers-reduced-motion: no-preference) {
+   a:nth-of-type(2) .logo {
+     animation: logo-spin infinite 20s linear;
+   }
+ }
+
+ .card {
+   padding: 2em;
+ }
+
+ .read-the-docs {
+   color: #888;
+ }
