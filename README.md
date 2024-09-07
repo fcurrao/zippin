@@ -19,13 +19,9 @@ Las variables de entorno, por seguridad, fueron enviadas por correo electronico 
 ### Librerias utilizadas
 
 react-router-dom
-
 vite@latest (Creacion de proyecto)
-
 Leaflet: (Mapa interactivos)  (https://react-leaflet.js.org/docs/start-installation/)
-
 typescript
-
 Boostrap (framework CSS )
 
 
@@ -33,15 +29,10 @@ Boostrap (framework CSS )
 ### Patrones de diseño utilizados
 
 - Render Props
-
 - Componentes diferentes.
-
 - Custom Hooks 
-
 - Context.
-
 - Interfaces/Model
-
 - Carpetacion modular
 
 
@@ -129,18 +120,13 @@ Esta solución proporciona una experiencia de usuario fluida y eficiente, permit
 ### Resumen
 
 Características Notables
-- Estructura del Proyecto:
-
-Utiliza React y TypeScript, lo que sugiere un enfoque en la escalabilidad y tipado fuerte para evitar errores comunes de JavaScript.
-Parece tener un enfoque modular con la separación de componentes y hooks.
-Funcionalidad:
-
-Maneja drivers y points, probablemente para una aplicación que requiere asignar y gestionar ubicaciones o entregas.
-Incluye modales y pop-ups para la interacción del usuario, que son comunes en aplicaciones que requieren gestión de datos complejos o visualización en mapas. 
-
- - Contiene una excelente documentacion y comentarios necesarios.
- - Solido manejo de estados: El manejo del estado con hooks como useAssingPoints es una buena práctica.
- - Codigo optimizado
+- Estructura del Proyecto: Utiliza React y TypeScript, lo que sugiere un enfoque en la escalabilidad y tipado fuerte para evitar errores comunes de JavaScript.
+- Parece tener un enfoque modular con la separación de componentes y hooks.
+- Funcionalidad: una aplicación que requiere asignar y gestionar ubicaciones o entregas.
+- Incluye modales y pop-ups para la interacción del usuario, que son comunes en aplicaciones que requieren gestión de datos complejos o visualización en mapas. 
+- Contiene una excelente documentacion y comentarios necesarios.
+- Solido manejo de estados: El manejo del estado con hooks como useAssingPoints es una buena práctica.
+- Codigo optimizado
 
 
 
