@@ -18,11 +18,11 @@ Las variables de entorno, por seguridad, fueron enviadas por correo electronico 
 
 ### Librerias utilizadas
 
-react-router-dom
-vite@latest (Creacion de proyecto)
-Leaflet: (Mapa interactivos)  (https://react-leaflet.js.org/docs/start-installation/)
-typescript
-Boostrap (framework CSS )
+-react-router-dom
+-vite@latest (Creacion de proyecto)
+-Leaflet: (Mapa interactivos)  (https://react-leaflet.js.org/docs/start-installation/)
+-typescript
+-Boostrap (framework CSS )
 
 
  
