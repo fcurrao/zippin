@@ -14,13 +14,20 @@ User Story: Como usuario se requiere poder asignarle uno o más puntos a cada un
 Las variables de entorno, por seguridad, fueron enviadas por correo electronico a quien corresponda.
 
 
+
+--- 
+
+### Instalacion
+- Instalar las dependencias del proyecto (npm i ) en la carpeta raiz y luego ejecutar el script** npm run dev**.
+
+
 ---
 
 ### Librerias utilizadas
 
 -react-router-dom
 
--vite@latest (Creacion de proyecto)
+-vite@latest (Creacion de proyecto) ya que create-react esta deprecada
 
 -Leaflet: (Mapa interactivos)  (https://react-leaflet.js.org/docs/start-installation/)
 
@@ -94,10 +101,6 @@ Organizé mi proyecto React con una estructura clara: servicios, hooks, contexto
 - Se utilizo Font Awesome para iconos.
 
 
-
-
-### Instalacion
-- Instalar las dependencias del proyecto (npm i ) en la carpeta raiz y luego ejecutar el script** npm run dev**.
 
 
 ---
