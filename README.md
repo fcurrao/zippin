@@ -117,6 +117,7 @@ Al hacer clic en el botón de la derecha, se despliega una lista de entregas dis
 Se han implementado dos métodos para asignar tareas a los choferes:
 
 ¨Desde el mapa: Selecciona la entrega deseada en el mapa y usa el botón "Asignar" para elegir el chofer correspondiente.
+
 ¨Desde la barra de choferes: Elige el chofer deseado en la barra de choferes y asigna la entrega mediante un modal. En este modal, también se puede visualizar el número de entregas asignadas al chofer seleccionado.
 
 Esta solución proporciona una experiencia de usuario fluida y eficiente, permitiendo una gestión rápida y efectiva de entregas y choferes. La integración del mapa y las funcionalidades de asignación aseguran que los usuarios puedan realizar las tareas con precisión y agilidad. La interfaz está diseñada para ser intuitiva, facilitando la navegación y la gestión de información crítica en tiempo real.
