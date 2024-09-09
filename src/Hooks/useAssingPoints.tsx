@@ -59,7 +59,8 @@ export const useAssingPoints = () => {
         if (toMap) {
             setSelectedDriver(checked ? event.target.value : null);
             setNameByMapChecked(checked ? name : " ");
-            setColorByMapChecked(checked ? color : "black");
+            setColorByMapChecked(checked ? color : "black"); 
+            point.driver = (checked ? name : " ");
         }
 
         // Actualiza las variables globales
