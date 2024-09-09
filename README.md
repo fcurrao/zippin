@@ -1,7 +1,10 @@
 
 
 
-## Challenge Zippin
+## Challenge Zippin: Aplicativo web (responsive)
+
+### Deploy
+https://zippin.netlify.app/
 
 
 ### Objetivo
