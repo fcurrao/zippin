@@ -46,7 +46,7 @@ const MapsComponent = ({ position, zoom, points }: { position: [number, number];
             </MapContainer>
             {selectedLocation && (
                 <PopupComponent
-                    text={"Asignar entrega a:"}
+                    text={"Asignar a:"}
                     toMap={true}
                     modal={!!selectedLocation}
                     handleModal={() => setSelectedLocation(null)}
