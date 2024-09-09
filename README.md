@@ -62,10 +62,6 @@ Las variables de entorno, por seguridad, fueron enviadas por correo electronico 
 ![maps](public/images/maps.png)
 ![panel](public/images/panel.png)
 
-**Detalles deentregas**
-![asignar-desde-maps](public/images/asignar-desde-maps.png)
-![asignar-desde-lista-de-choferes](public/images/asignar-desde-lista-de-choferes.png)
-![entregas-lista](public/images/entregas-lista.png)
 
 **Responsive**
 
