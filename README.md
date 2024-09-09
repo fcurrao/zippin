@@ -59,8 +59,15 @@ Las variables de entorno, por seguridad, fueron enviadas por correo electronico 
 
 **Home (Map) del aplicativo**
 ![home](public/images/ejemplo.png)
-![maps](public/images/maps.png)
-![panel](public/images/panel.png)
+![maps](public/images/maps.png) 
+<img width="952" alt="panel" src="https://github.com/user-attachments/assets/150a634d-d5c6-4166-80c0-c830a05fe21a">
+
+
+**Detalles deentregas**
+![asignar-desde-maps](public/images/asignar-desde-maps.png) 
+<img width="939" alt="asignar-desde-lista-de-choferes" src="https://github.com/user-attachments/assets/fb09d51c-2013-4fb6-9b95-aa755ed93104">
+<img width="942" alt="entregas-lista" src="https://github.com/user-attachments/assets/54f682c0-255c-4f65-bd11-8d09e7b7fae5">
+ 
 
 
 **Responsive**
