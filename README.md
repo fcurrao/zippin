@@ -23,6 +23,8 @@ Las variables de entorno, por seguridad, fueron enviadas por correo electronico 
 ### Instalacion
 - Instalar las dependencias del proyecto (npm i ) en la carpeta raiz y luego ejecutar el script** npm run dev**.
 
+- La aplicacion se vera en el puerto 5173
+
 
 ---
 
