@@ -4,6 +4,7 @@
 
 .label-checkbox {
     cursor: pointer;
+    font-size: smaller;
 
 }
 
@@ -26,11 +27,12 @@
     font-family: math;
 }
 
-.points-container {
+.points-container { 
     display: flex;
     flex-direction: column;
     align-items: baseline;
-
+    font-size: smaller;
+    text-align: left;
 }
 
 .image-inPopUp {
@@ -46,12 +48,12 @@
 }
 
 .w40 {
-    width: 40% !important;
+    width: 60% !important;
 }
 
 
 .label-checkbox:hover {
-    scale: 1.1
+    scale: 1.02
 }
 
 @media (max-width: 769px), (max-height: 500px) {
